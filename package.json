@@ -1,0 +1,19 @@
+{
+  "name": "please-denzel-help-me",
+  "version": "1.0.0",
+  "description": "> Last Javascript assessment to save the 2019 Q1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jerem06/please-denzel-help-me.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jerem06/please-denzel-help-me/issues"
+  },
+  "homepage": "https://github.com/jerem06/please-denzel-help-me#readme"
+}
